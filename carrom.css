@@ -1,0 +1,132 @@
+body {
+    background: url(https://cdn-www.bluestacks.com/bs-images/Banner_Carrom-Pool.jpg);
+
+   color:white;
+
+}
+h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: crimson;
+
+}
+.c1{
+    border:5px solid;
+    width:300px;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    border:5px solid greenyellow;
+    color:black;
+    background: linear-gradient(red,blue,green);
+}
+.c2 h3{
+    color:red;
+}
+.c2{
+    padding:10px;
+    border:4px dashed blue;
+    width:170px;
+    text-align: center;
+    margin-left:42.5%;
+    position: relative;
+    top:20px;
+    background-color:lightcyan;
+    
+    color: black;
+
+}
+.c3 h3{
+    color: blue;
+}
+.c3{
+    padding:2px;
+    border:2px solid red;
+    width:500px;
+    text-align: justify;
+    position: relative;
+    top:25px;
+    color:firebrick;
+    background: linear-gradient(lightgreen,Yellow);
+}
+.c4 h3{
+    color:blue;
+}
+.c4{
+    padding:5px;
+    border :4px solid red;
+    border-left:60%;
+    margin-left:60%;
+    margin-right:50%;
+    margin-bottom:70%;
+    margin:2px 60%;
+    width:300px ;
+    top:92%;
+    text-align: justify;
+    color:blueviolet;
+    position: absolute;
+    background:linear-gradient(lightyellow,yellow);
+}
+.c5 h4{
+    color:rgb(30, 210, 60);
+
+}
+.c5{
+    text-align:center;
+    border-radius: 5px;
+    padding:3px;
+    border:50% 50% solid red;
+    border-width:40%;
+    background: linear-gradient(red,blue);
+    height:75px;
+    box-sizing: border-box;
+    margin-bottom:7%;
+    margin-top:2.5%;
+    width:max-content;
+    margin-left:43.5%;
+   margin-right:30%;
+    border-radius:20px 20px;
+}
+.c6 h4{
+    color:rgb(109, 0, 128);
+}
+.c6{
+    border:5px double rgb(25, 0, 185);
+    text-align: justify;
+    text-indent: 40px;
+    text-shadow:2px 2px 2px gray;
+    margin-top: 20px;
+    
+    p::first-letter{
+        font-size: 1.5em;
+    }
+}
+button{
+    background-color: aquamarine;
+    border-radius: 8px;
+    font-size:20px;
+    position: relative;
+    top:20px;
+    text-shadow: 2px 2px 2px gray;
+    align-content: center;
+    margin-left:44.5%;
+    color:blue;
+}
+.fc{
+    padding:10px;
+    border:none;
+    color:rgb(234, 242, 226);
+    border-radius:8px;
+    margin-left:30%;
+    margin-right: 50%;
+    margin-top:2px;
+}
+.gl{
+    padding:10px;
+    border:none;
+    color:chartreuse;
+    border-radius:8px;
+    margin-right:30%;
+    margin-left: 50%;
+}

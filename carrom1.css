@@ -1,0 +1,47 @@
+body{
+   background-color: aquamarine;
+   background-size:auto;
+   
+}
+.s3{
+    text-align: center;
+    padding:10px;
+    width: max-content;
+    margin-left:42.5%;
+    background: linear-gradient(rgb(128, 109, 0),yellow);
+    background-color: rgb(71, 255, 95);
+    color: rgb(226, 70, 43);
+    text-transform: uppercase;
+
+}
+.d1{   
+   text-align: center;
+   margin:400px;
+   margin-top: 5%;
+   padding: 10px;
+   background:linear-gradient(rgb(144, 227, 238));
+   border: 5px solid black;
+   top: 20%;
+
+}
+.f1{
+    padding:10px;
+    border:5px solid black;
+}
+.g1{
+    padding:40px;
+    font-size: 30px;
+}
+
+button{
+    background-color: coral;
+    border-radius: 8px ;
+    font-size: 30px;
+    position: relative;
+    top:10%;
+    min-width: auto;
+    cursor: pointer;
+}
+label{
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
